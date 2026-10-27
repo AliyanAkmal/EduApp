@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EduHub</string>
+    <string name="splash_welcome">Welcome to EduHub</string>
+    <string name="splash_subtitle">Your Learning Companion</string>
+    <string name="get_started">Get Started</string>
+
+    <!-- Login -->
+    <string name="login_title">Sign In</string>
+    <string name="login_subtitle">Enter your credentials to continue</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="forgot_password_link">Forgot Password?</string>
+    <string name="no_account">Don\'t have an account? Register</string>
+
+    <!-- Register -->
+    <string name="register_title">Create Account</string>
+    <string name="register_subtitle">Sign up to get started</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email Address</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="btn_register">Register</string>
+    <string name="already_have_account">Already have an account? Sign In</string>
+
+    <!-- Forgot & Reset Password -->
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="forgot_password_desc">Enter your registered email address to receive password recovery instructions.</string>
+    <string name="btn_send_recovery">Send Recovery Code</string>
+    <string name="reset_password_title">Reset Password</string>
+    <string name="reset_password_desc">Enter your new password below.</string>
+    <string name="new_password">New Password</string>
+    <string name="btn_reset_password">Update Password</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_welcome">Welcome back!</string>
+    <string name="module_courses">Courses</string>
+    <string name="module_assignments">Assignments</string>
+    <string name="module_grades">Grades</string>
+    <string name="module_schedule">Schedule</string>
+    <string name="module_notifications">Notifications</string>
+    <string name="module_profile">Profile</string>
+
+    <!-- Profile -->
+    <string name="profile_title">User Profile</string>
+    <string name="profile_name">Aliyan Akmal</string>
+    <string name="profile_email">abc@example.com</string>
+    <string name="profile_role">Student (Artificial Intelligence)</string>
+    <string name="btn_logout">Logout</string>
+
+    <!-- Validations & Toasts -->
+    <string name="err_empty_field">This field cannot be empty</string>
+    <string name="err_invalid_email">Please enter a valid email address</string>
+    <string name="err_password_short">Password must be at least 6 characters</string>
+    <string name="err_password_mismatch">Passwords do not match</string>
+    <string name="toast_login_success">Login successful!</string>
+    <string name="toast_login_failed">Invalid email or password!</string>
+    <string name="toast_register_success">Registration successful! Please login.</string>
+    <string name="toast_recovery_sent">Password recovery email sent!</string>
+    <string name="toast_password_reset">Password updated successfully!</string>
+    <string name="toast_logout">Logged out successfully.</string>
+</resources>
